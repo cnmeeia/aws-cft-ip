@@ -15,11 +15,13 @@ IP:54321
 
 https://cachefly.cachefly.net
 
-```
 
 # 优选工具 下载 https://github.com/XIU2/CloudflareSpeedTest
 
-➜  '/Users/meeia/Downloads/CloudflareST_darwin_amd64/CloudflareST(工具路径)' -t 1 -url https://换成你自己的测速域名.cloudfront.net//100mb.test     
+➜  '/Users/meeia/Downloads/CloudflareST_darwin_amd64/CloudflareST(工具路径)' -t 1 -url https://换成你自己的测速域名.cloudfront.net//100mb.test 
+
+```
+    
 
 
 按照 图 配置 
