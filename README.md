@@ -1,33 +1,26 @@
+##### 0.安装 x-ui 创建vmess 端口 80 路径 /ray 
+
 ```shell
-# 安装 x-ui
-
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
-
-# 解析域名
-
-cft.app2022.ml
-
-# u-xi 登陆信息 admin admin
-
-IP:54321
-
-# 优选 IP 
-
-https://cachefly.cachefly.net
-
 ```
 
 
 
-按照 图 配置 
+##### 1.解析域名到你的 vps 
 
+##### 2.u-xi 登陆信息 admin admin   IP/域名:54321
 
+##### 3.创建优选 IP 分配 测速 链接 https://cachefly.cachefly.net  cloudfront 的IP段，测速工具下载 https://github.com/XIU2/CloudflareSpeedTest
 
-![](/Users/meeia/Documents/aws/iShot_2022-08-02_18.46.42.png)
+![](/aws/speed.png)
 
+![](/aws/all.png)
 
+##### 4.创建 vmess 分配
 
-![](/Users/meeia/Documents/aws/iShot_2022-08-02_18.47.12.png)
+![](/aws/vmess.png)
 
+![](/aws/all.png)
 
+##### 5.修改  vmess IP 为 第三步   混淆域名为 第四步
 
