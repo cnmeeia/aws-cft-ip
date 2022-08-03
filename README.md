@@ -28,11 +28,11 @@ https://cachefly.cachefly.net
 
 
 
-![](/aws/iShot_2022-08-02_18.46.42.png)
+![](/aws/speed.png)
 
 
 
-![](/aws/iShot_2022-08-02_18.47.12.png)
+![](/aws/all.png)
 
 
 
