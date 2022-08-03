@@ -24,7 +24,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 ##### 创建cloudfront 为 vmess分配
 
-![](/aws/vmess.peg)
+![](/aws/vmess.png)
 
 ![](/aws/all.png)
 
