@@ -8,6 +8,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 
 ##### 创建 cloudfront 优选 IP 分配  
 
+测速地址： cachefly.cachefly.net
+
 ![](/aws/speed.png)
 
 ![](/aws/all.png)
